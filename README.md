@@ -14,3 +14,4 @@ OSINT - Open Source Intelligece
 In conclusion, Offensive Security is a crucial aspect of modern cybersecurity. By actively hunting for weaknesses and vulnerabilities, organizations can significantly improve their defenses and better protect their systems from potential attacks.
 
 #### :fire: gitz-offensive
+❤️‍🔥
