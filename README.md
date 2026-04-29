@@ -8,7 +8,7 @@ Social engineering
 Exploitation of vulnerabilities
 Exploiting Web Application Security
 Advanced Persistent Threat (APT) Simulation---
-OSINT - Open Source Intelligece
+> OSINT - Open Source Intelligece
 
 
 
