@@ -15,3 +15,4 @@ In conclusion, Offensive Security is a crucial aspect of modern cybersecurity. B
 
 #### :fire: gitz-offensive
 :sparkles:
+:partying_face:
