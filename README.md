@@ -1,4 +1,4 @@
-## Hi there, StatusCode:202
+## Hi there, StatusCode:202 :sparkles:
 
 For Offensive Security, gitz-offensive does a proactive approach to cybersecurity, where cyberattacks are simulated to identify vulnerabilities and weaknesses in a system, network, or application. The goal of offensive security is to strengthen the defense mechanisms by discovering and fixing security flaws before malicious attackers can exploit them. Below are some key aspects of Offensive Security:-
 Penetration Testing (Pen Testing)
@@ -14,4 +14,4 @@ OSINT - Open Source Intelligece
 In conclusion, Offensive Security is a crucial aspect of modern cybersecurity. By actively hunting for weaknesses and vulnerabilities, organizations can significantly improve their defenses and better protect their systems from potential attacks.
 
 #### :fire: gitz-offensive
-❤️‍🔥
+:sparkles:
